@@ -2,6 +2,17 @@
   text-align: center;
 }
 
+h1{
+  font-family: 'Texturina', serif;
+  font-size: 40px;
+  -webkit-background-clip: text;
+  background-image: linear-gradient(to right, #1de9b6, #2979ff);
+  -webkit-text-fill-color: transparent;
+  color: #464646;
+  padding: 0;
+  margin: 0;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
